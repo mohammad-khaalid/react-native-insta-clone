@@ -58,7 +58,7 @@ const Posts = [
   {
     id: 4,
     img: Img4,
-    username: 'GoldenGoddess_Glitter',
+    username: 'Golden_Glitter',
     likes: '13,393',
     comments: '433',
     date: '1 week ago',
